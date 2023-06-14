@@ -19,10 +19,6 @@
 - 🌱 I’m currently learning **on Henry -> Bootcamp Web Full Stack Developer**
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sofidubrowsky@hotmail.com.ar](mailto:sofidubrowsky@hotmail.com.ar).
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sofia dubrowsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofia dubrowsky" height="30" width="40" /></a>
-</p>
 
 Industrial Designer Graduated from the National University of Córdoba👩🏻‍🎓, on her way to being a FullStack Developer at the SoyHenry Bootcamp 👩‍💻 and currently Teaching Assistant at SoyHenry👩🏻‍🏫.
 All my life I have been passionate about Design in all its aspects, a very curious person and in constant search of new knowledge. 📖🧐
