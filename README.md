@@ -10,7 +10,7 @@
 
 **About Me!**
 
-- 👩‍💻 Contact me at [Linkedin](linkto:https://www.linkedin.com/in/disof%C3%ADadubrowsky/)
+- 👩‍💻 Contact me at [Linkedin](urlto:https://www.linkedin.com/in/disof%C3%ADadubrowsky/)
 - 📫 Email me at [sofidubrowsky@hotmail.com.ar](mailto:sofidubrowsky@hotmail.com.ar).
 
 Industrial Designer Graduated from the National University of Córdoba👩🏻‍🎓, on her way to being a FullStack Developer at the SoyHenry Bootcamp 👩‍💻 and currently Teaching Assistant at SoyHenry👩🏻‍🏫.
