@@ -26,6 +26,9 @@
 <p>I found a place where I can combine all my knowledge and desire to design, having the necessary tools to carry it out and I love it. 💕<p/>
 <p>Since teamwork is my favorite way of working, this new profession gives me the possibility of constantly growing with the help of my colleagues. Thanks to them, who chose me, I managed to be a Teaching Assistant. 🤝
   <p>Always happy to continue acquiring new knowledge and experiences🚀✨<p/></p>
+  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofidubrowsky&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
 
 
