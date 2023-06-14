@@ -30,12 +30,12 @@
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sofidubrowsky@hotmail.com.ar](mailto:sofidubrowsky@hotmail.com.ar).
 
-Industrial Designer Graduated from the National University of Córdoba:woman_student_tone1:, on her way to being a FullStack Developer at the SoyHenry Bootcamp :woman_technologist_tone1: and currently Teaching Assistant at SoyHenry:woman_teacher_tone1:.
-All my life I have been passionate about Design in all its aspects, a very curious person and in constant search of new knowledge. :book::face_with_monocle:
+Industrial Designer Graduated from the National University of Córdoba👩🏻‍🎓, on her way to being a FullStack Developer at the SoyHenry Bootcamp 👩‍💻 and currently Teaching Assistant at SoyHenry👩🏻‍🏫.
+All my life I have been passionate about Design in all its aspects, a very curious person and in constant search of new knowledge. 📖🧐
 As an Industrial Designer I wanted to get involved in Web Design, I started doing UX UI Courses, and that's how I discovered the IT world and programming.
-I found a place where I can combine all my knowledge and desire to design, having the necessary tools to carry it out and I love it. :two_hearts:
-Since teamwork is my favorite way of working, this new profession gives me the possibility of constantly growing with the help of my colleagues. Thanks to them, who chose me, I managed to be a Teaching Assistant. :handshake:
-Always happy to continue acquiring new knowledge and experiences:rocket::sparkles:
+I found a place where I can combine all my knowledge and desire to design, having the necessary tools to carry it out and I love it. 💕
+Since teamwork is my favorite way of working, this new profession gives me the possibility of constantly growing with the help of my colleagues. Thanks to them, who chose me, I managed to be a Teaching Assistant. 🤝
+Always happy to continue acquiring new knowledge and experiences🚀✨
 
 
 
