@@ -20,12 +20,13 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-<p><p>Industrial Designer Graduated from the National University of Córdoba👩🏻‍🎓, on her way to being a FullStack Developer at the SoyHenry Bootcamp 👩‍💻 and currently Teaching Assistant at SoyHenry👩🏻‍🏫.<p/>
-<p>All my life I have been passionate about Design in all its aspects, a very curious person and in constant search of new knowledge. 📖🧐<p/>
-<p>As an Industrial Designer I wanted to get involved in Web Design, I started doing UX UI Courses, and that's how I discovered the IT world and programming.<p/>
-<p>I found a place where I can combine all my knowledge and desire to design, having the necessary tools to carry it out and I love it. 💕<p/>
-<p>Since teamwork is my favorite way of working, this new profession gives me the possibility of constantly growing with the help of my colleagues. Thanks to them, who chose me, I managed to be a Teaching Assistant. 🤝
-  <p>Always happy to continue acquiring new knowledge and experiences🚀✨<p/></p>
+<p><p>Hello! Welcome to my profile 👋 I'm Sofi, a FullStack Developer trained at SoyHenry's Bootcamp 👩🏻‍💻, and a Industrial Designer graduated from the National University of Córdoba 👩🏻‍🎓. I'm also an entrepreneur 💪🏻 and currently working as a Henry Assistant at SoyHenry 👩🏻‍🏫.<p/>
+<p>Throughout my life, I've been passionate about Design in all its aspects, and I'm a very curious person constantly seeking new knowledge. 📖🧐<p/>
+<p>As an Industrial Designer, I wanted to explore Web Design, so I started taking UX UI courses, and that's how I discovered the IT world and programming. I found a place where I can combine all my knowledge and passion for design, having the necessary tools to bring it to life, and I love it. 💕<p/>
+<p>Changing careers was a challenge, but I easily adapted because I enjoy pushing myself to achieve new knowledge and experiences that help me grow both professionally and personally.<p/>
+<p>Being a team player is my favorite way of working, and this new profession allows me to keep growing with the support of my colleagues and peers. Thanks to my fellow students who chose me, I became a Teaching Assistant, a role in which I further developed my soft skills, such as teamwork, leadership, communication, and I was awarded the "Proactive" badge by the votes of my students, fellow TAs, and the Henry Assistant at that time. Based on my performance during this stage and the feedback I received, I was selected as the Henry Assistant for the upcoming Henry cohort 🤝
+  <p>I'm always delighted to keep growing, learning, collaborating, and working with great passion and dedication to achieve the best results in each project I get involved in. 🚀✨
+  If you're looking for someone like me, don't hesitate to get in touch. It would be a pleasure to work together! 😊<p/></p>
   
 
 
