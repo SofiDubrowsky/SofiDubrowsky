@@ -20,7 +20,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-<p><p>Hello! Welcome to my profile 👋 I'm Sofi, a FullStack Developer trained at SoyHenry's Bootcamp 👩🏻‍💻, and a Industrial Designer graduated from the National University of Córdoba 👩🏻‍🎓. I'm also an entrepreneur 💪🏻 and currently working as a Henry Assistant at SoyHenry 👩🏻‍🏫.<p/>
+<p><p>Hello! Welcome to my profile 👋 I'm Sofi, a FullStack Developer trained at SoyHenry's Bootcamp 👩🏻‍💻, and a Industrial Designer graduated from the National University of Córdoba 👩🏻‍🎓. I'm also an entrepreneur 💪🏻 currently working as a Full Stack Developer at Dumax💚<p/>
 <p>Throughout my life, I've been passionate about Design in all its aspects, and I'm a very curious person constantly seeking new knowledge. 📖🧐<p/>
 <p>As an Industrial Designer, I wanted to explore Web Design, so I started taking UX UI courses, and that's how I discovered the IT world and programming. I found a place where I can combine all my knowledge and passion for design, having the necessary tools to bring it to life, and I love it. 💕<p/>
 <p>Changing careers was a challenge, but I easily adapted because I enjoy pushing myself to achieve new knowledge and experiences that help me grow both professionally and personally.<p/>
