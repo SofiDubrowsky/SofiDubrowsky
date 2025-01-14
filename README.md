@@ -14,7 +14,7 @@
 
 **About Me!**
 
-- 👩‍💻 Contact me at [Linkedin](https://www.linkedin.com/in/disof%C3%ADadubrowsky/)
+- 👩‍💻 Contact me at [Linkedin](https://www.linkedin.com/in/sofiadubrowsky/)
 - 📫 Email me at [sofidubrowsky@hotmail.com.ar](mailto:sofidubrowsky@hotmail.com.ar).
 
 
